@@ -1,5 +1,5 @@
-# ics-32-w22-final-project
-ics-32-w22-final-project created by GitHub Classroom
+# ics-32-w21-final-project
+ICS 32 Final Project Winter 2021 created by Lanni Dang-Vu, Macy Lakey, and Delaney Harwell
 
 DISCLAIMER: to successfully send messages back and forth two fully loaded dsu files and gui's must be up, or at least you must be messaging an existing profile. AKA must be messaging an existing user that is stored in a file.
 When you run our program, you must open a new or existing profile. 
